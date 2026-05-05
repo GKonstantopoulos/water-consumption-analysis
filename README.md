@@ -14,7 +14,7 @@ The goal is to understand how consumption evolves over time and identify the mai
 ## Project Structure
 
 [data/](data/) | Raw and processed datasets |    
-[images/](images/) | Data exploration |    
+[images/](images/) | Dashboard screenshot |    
 [sql/](sql/) | SQL scripts |    
 [powerbi/](powerbi/) | Dashboard file |    
 [src/](src/) | Python scripts |    
@@ -37,6 +37,8 @@ The goal is to understand how consumption evolves over time and identify the mai
 - No significant year-over-year change is observed (Q1 2024 vs 2025)
 
 ## Dashboard
+
+[![Dashboard](images/dashboard_image.png)](powerbi/water_consumption_dashboard.pbix)
 
 The Power BI dashboard visualizes:
 - Consumption trends over time  
