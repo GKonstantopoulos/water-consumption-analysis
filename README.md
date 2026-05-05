@@ -13,11 +13,11 @@ The goal is to understand how consumption evolves over time and identify the mai
 
 ## Project Structure
 
-[data/](data/) # Raw and processed datasets  
-[images/](images/) # Data exploration  
-[sql/](sql/) # SQL scripts  
-[powerbi/](powerbi/) # Dashboard file  
-[src/](src/) # Python scripts  
+[data/](data/) | Raw and processed datasets |    
+[images/](images/) | Data exploration |    
+[sql/](sql/) | SQL scripts |    
+[powerbi/](powerbi/) | Dashboard file |    
+[src/](src/) | Python scripts |    
 
 ## Tools
 - Python (data cleaning & transformation)  
@@ -45,10 +45,10 @@ The Power BI dashboard visualizes:
 - Year-over-year comparison
 
 ## How to Run
-1. Load dataset from `data/processed/`  
-2. Run Python scripts from `src/`  
-3. Execute SQL queries from `sql/`  
-4. Open dashboard from `powerbi/water_consumption_dashboard.pbix`
+1. Load dataset from [`data/processed/`](data/processed/)    
+2. Run Python scripts from [`src/`](src/)    
+3. Execute SQL queries from [`sql/`](sql/)    
+4. Open dashboard from [`powerbi/water_consumption_dashboard.pbix`](powerbi/water_consumption_dashboard.pbix)
 
 ## Limitations
 - Outliers were removed for normalized metrics:
