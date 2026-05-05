@@ -13,11 +13,11 @@ The goal is to understand how consumption evolves over time and identify the mai
 
 ## Project Structure
 
-[data/](data/) # Raw and processed datasets
-[notebooks/](notebooks/) # Data exploration
-[sql/](sql/) # SQL scripts
-[powerbi/](powerbi/) # Dashboard file
-[src/](src/) # Python scripts
+[data/](data/) # Raw and processed datasets  
+[images/](images/) # Data exploration  
+[sql/](sql/) # SQL scripts  
+[powerbi/](powerbi/) # Dashboard file  
+[src/](src/) # Python scripts  
 
 ## Tools
 - Python (data cleaning & transformation)  
