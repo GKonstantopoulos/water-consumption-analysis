@@ -30,7 +30,8 @@ The goal is to understand how consumption evolves over time and identify the mai
 - Average consumption by category (A–E)
 
 ## Key Insights
-- Water consumption remains relatively stable over time  
+- Water consumption remains relatively stable over time
+- Approximately 99% of connections consume below ~0.86 m³ per day    
 - High-consumption categories (Class D and especially Class E) drive overall usage  
 - Class E shows significantly higher consumption per connection  
 - Location plays a secondary role compared to consumption category  
