@@ -39,7 +39,7 @@ The goal is to understand how consumption evolves over time and identify the mai
 
 ## Dashboard
 
-
+[![Dashboard](images/dashboard_image.png)](powerbi/water_consumption_dashboard.pbix) 
 
 The Power BI dashboard visualizes:
 - Consumption trends over time  
